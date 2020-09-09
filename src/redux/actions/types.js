@@ -1,0 +1,19 @@
+export const FETCH_BOOKS = 'FETCH_BOOKS';
+export const DELETE_BOOKS = 'DELETE_BOOKS';
+export const FETCH_AUTHORS = 'FETCH_AUTHORS';
+export const DELETE_AUTHORS = 'DELETE_AUTHORS';
+export const ADD_AUTHOR = 'ADD_AUTHOR';
+export const ADD_BOOK = 'ADD_BOOK';
+export const UPDATE_AUTHORS = 'UPDATE_AUTHORS';
+export const UPDATE_BOOKS = 'UPDATE_BOOKS';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNUP_FAIL = 'SIGNUP_FAIL';
+export const LOGIN_PASS = 'LOGIN_PASS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const GET_ERRORS = 'GET_ERRORS';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+
